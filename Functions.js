@@ -7,3 +7,10 @@ function imprimirEdad (n, e) {
 imprimirEdad(nombre, edad)
 
 imprimirEdad('Vicky', 28)
+
+function imprimirNombreEnMayusculas(nombre) {
+	nombre = nombre.toUpperCase()
+	console.log(nombre)
+}
+
+imprimirNombreEnMayusculas(nombre)
