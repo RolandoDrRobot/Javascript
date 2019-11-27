@@ -1,3 +1,8 @@
-# Javascript
-This is Javascript course Platzi
-Here are documented all the practices
+# Javascript - Platzi Course & Other practices
+- Timer
+- Conditionals
+- Functions
+- Numbers
+- Objects
+- Unstructuring
+- Callbacks
