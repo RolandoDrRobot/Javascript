@@ -7,7 +7,7 @@ const onPeopleResponse = function(persona){
     console.log(`Hola soy ${persona.name}`)
     console.log(i)
 }
-for(i=1; i<=10; i++){
+for(i=1; i<=20; i++){
     var people_URL = `${API_URL}${PEOPLE_URL.replace(':id', i)}`
     //3 PARAMETROS
     //la url de donde viene el objeto
