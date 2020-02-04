@@ -6,7 +6,7 @@ peso += sandwich
 
 var jugarFutbol = 3
 
-peso += jugarFutbol
+peso -= jugarFutbol
 
 var precioDelVino = 200.3
 
