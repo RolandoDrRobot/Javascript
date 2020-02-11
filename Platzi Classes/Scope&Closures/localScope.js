@@ -13,4 +13,4 @@ const functionScope = () => {
 };
 
 functionScope();
-console.log(scope); 
+console.log(scope);
