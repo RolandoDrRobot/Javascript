@@ -4,7 +4,12 @@
   "description": "This is a Platzi Course",
   "main": "index.js",
   "scripts": {
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+    "callback:challange": "node src/callback/index.js",
+    "promise": "node src/callback/index.js",
+    "promise:challange": "node src/callback/index.js",
+    "async": "node src/callback/index.js",
+    "async:challange": "node src/callback/index.js"
   },
   "keywords": [
     "Async",
@@ -14,5 +19,8 @@
     "Platzi"
   ],
   "author": "Rolando Arguello",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
