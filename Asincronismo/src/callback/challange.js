@@ -1,4 +1,5 @@
 let XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
+let API = 'https://rickandmorty.com/api/character/';
 
 // The URL_API comes independently
 // the callback could be any function that needs this utility
