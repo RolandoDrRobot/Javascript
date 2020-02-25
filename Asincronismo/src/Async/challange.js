@@ -18,3 +18,9 @@ const anotherFunction = async (API) => {
 console.log('Before');
 anotherFunction(API);
 console.log('After');
+
+/***********************************************
+ * You need a transpilor, Typescript for example
+ * to ma*ke a promise or async works in every
+ * Browser
+/***********************************************/
